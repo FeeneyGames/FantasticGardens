@@ -1,0 +1,6 @@
+C:\Users\Admin\Documents\Godot\FantasticGardens\.mono\temp\bin\Tools\Fantastic Gardens.dll
+C:\Users\Admin\Documents\Godot\FantasticGardens\.mono\temp\bin\Tools\Fantastic Gardens.pdb
+C:\Users\Admin\Documents\Godot\FantasticGardens\.mono\temp\obj\Tools\Fantastic Gardens.csprojAssemblyReference.cache
+C:\Users\Admin\Documents\Godot\FantasticGardens\.mono\temp\obj\Tools\Fantastic Gardens.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Documents\Godot\FantasticGardens\.mono\temp\obj\Tools\Fantastic Gardens.dll
+C:\Users\Admin\Documents\Godot\FantasticGardens\.mono\temp\obj\Tools\Fantastic Gardens.pdb
